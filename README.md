@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Barosio
+### Hi there. Welcome,,, 👋 I'm Barosio
 #   About Me:
 🔭 I’m currently working on my Skills In Reactjs and Ruby.<br>🌱 I’m currently learning more about FullStack Web Development.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: <br>⚡ Fun fact: Spaces are better than tabs
 
