@@ -5,7 +5,7 @@
 <br>💬 Ask me about any tech-related stuff.
 <br>📫 How to reach me: barosiofelix@gmail.com 
 <br>⚡ Fun fact: Spaces are better than tabs 
-<br>🌐 Check out my [Portfolio](https://github.com/Felix-Barosio)
+<br>💻 Check out my [Portfolio](https://github.com/Felix-Barosio)
 
 
 ## 🌐 Socials:
