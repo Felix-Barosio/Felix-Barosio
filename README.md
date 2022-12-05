@@ -1,4 +1,4 @@
-### Hi there. Welcome,,, 👋 I'm Barosio Felix.
+### Hi. Welcome,,, 👋 I'm Barosio Felix.
 #   About Me:
 🔭 I’m currently working on my Skills In React and Rails.
 <br>🌱 I’m currently learning more about FullStack Web Development.
