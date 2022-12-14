@@ -5,7 +5,7 @@
 🔭 I’m currently working on my Skills In React and Rails.
 <br>🌱 I’m currently learning more about FullStack Web Development.
 <br>💬 Ask me about any tech-related stuff.
-<br>📫 How to reach me: [Email](barosiofelix@gmail.com), [Twitter](https://twitter.com/barosio_felix).
+<br>📫 How to reach me: [Email](barosiofelix@gmail.com), [Twitter](https://twitter.com/barosio_felix) & [LinkedIn](https://www.linkedin.com/in/felix-barosio/).
 <br>⚡ Fun fact: Spaces are better than tabs.
 <br>💻 Check out my [Portfolio](https://github.com/Felix-Barosio).
 
