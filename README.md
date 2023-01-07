@@ -7,7 +7,7 @@
 <br>💬 Ask me about any tech-related stuff.
 <br>📫 How to reach me: [Email](barosiofelix@gmail.com), [Twitter](https://twitter.com/barosio_felix), [LinkedIn](https://www.linkedin.com/in/felix-barosio/).
 <br>⚡ Fun fact: Spaces are better than tabs.
-<br>💻 Check out my [Portfolio](https://github.com/Felix-Barosio/Portfolio).
+<!-- <br>💻 Check out my [Portfolio](https://portfolio-felix-barosio.vercel.app/). -->
 
 ## 🌐 Socials:
 
@@ -20,8 +20,8 @@
 
 # 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Felix-Barosio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Felix-Barosio&theme=dark&hide_border=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=Felix-Barosio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Felix-Barosio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Barosio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
