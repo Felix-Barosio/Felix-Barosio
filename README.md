@@ -2,7 +2,7 @@
 
 # About Me:
 
-🔭 I’m currently working on my Skills In ReactJS and Ruby on Rails.
+🔭 I’m currently working on my Skills In React.
 <br>🌱 I’m currently learning more about FullStack Web Development.
 <br>🔭 I’m currently looking to Collaborate on Projects.
 <br>💬 Ask me about any tech-related stuff.
